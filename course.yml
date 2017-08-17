@@ -33,12 +33,8 @@ chunks:
 
         <img src="repo:images/classroom.jpeg">
 
-        (![creative commons](repo:images/cc.png)/by [kevin dooley](https://secure.flickr.com/photos/pagedooley/13905987989/) on Flickr)
 
         <div class="well" markdown="1">
-          *RELATE* <i class="fa fa-heart"></i>
-          <a href="https://djangoproject.com/"><img src="repo:images/django-logo.png"></a>.
-
           (Note that all of this is sample content. RELATE does not clutter
           your course page with information about itself.)
         </div>
